@@ -1,3 +1,0 @@
-IPL Data Analysis using Pandas AI
-Last Updated : 07 Jul, 2025
-Analyzing IPL 2023 auction data is important for understanding player purchases, team spending and auction trends. In this guide, we’ll use PandasAI an AI-powered data analysis tool to gain insights from the IPL 2024 Auction dataset. PandasAI enhances traditional Pandas by integrating AI-driven insights making it easier to extract meaningful information from large
